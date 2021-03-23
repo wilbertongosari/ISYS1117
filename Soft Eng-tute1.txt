@@ -1,0 +1,52 @@
+Semantic Versioning:
+Major.Minor.Patch
+
+Assymatric versioning
+
+Public API
+
+- Eclipse or IntelliJ
+
+Week 4
+- Maven
+https://maven.apace.org/download.cgi
+
+Assingment Release:
+- Alpha: First release demo
+- Beta
+- Final
+
+Identify release:
+semver.org
+
+1.0.0-beta1
+
+1 = major
+0 = minor
+0 = patch
+beta1 = label
+
+
+Recommended Industry practice:
+- Flowchart
+- Agree with team on which programming language to use
+
+Deployment:
+- Servers
+- Clients
+- Software configurations
+- Database migration
+* Backup to be safe
+
+
+Refactoring:
+https://refactoring.guru/refactoring/techniques
+
+- Use new classes to place fields and methods 
+
+
+
+
+
+
+
